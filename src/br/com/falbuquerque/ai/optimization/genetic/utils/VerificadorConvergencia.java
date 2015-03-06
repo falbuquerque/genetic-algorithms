@@ -1,6 +1,6 @@
 package br.com.falbuquerque.ai.optimization.genetic.utils;
 
-import br.com.falbuquerque.ai.optimization.genetic.populacao.EstruturaPopulacao;
+import br.com.falbuquerque.ai.optimization.genetic.population.EstruturaPopulacao;
 
 public abstract class VerificadorConvergencia<N extends Number> {
 

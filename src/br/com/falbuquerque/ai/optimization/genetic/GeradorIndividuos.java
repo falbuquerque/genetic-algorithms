@@ -3,8 +3,8 @@ package br.com.falbuquerque.ai.optimization.genetic;
 import java.util.ArrayList;
 import java.util.List;
 
-import br.com.falbuquerque.ai.optimization.genetic.alfabeto.Alfabeto;
-import br.com.falbuquerque.ai.optimization.genetic.reproducao.ComportamentoReproducao;
+import br.com.falbuquerque.ai.optimization.genetic.alphabet.Alfabeto;
+import br.com.falbuquerque.ai.optimization.genetic.reproduction.ComportamentoReproducao;
 
 public class GeradorIndividuos<N extends Number, S extends Number & Comparable<S>> {
 

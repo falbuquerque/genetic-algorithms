@@ -7,7 +7,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Scanner;
 
-import br.com.falbuquerque.ai.optimization.genetic.dominios.clustering.DadoCluster;
+import br.com.falbuquerque.ai.optimization.genetic.domains.clustering.DadoCluster;
 
 public class LeitorArquivosCSV {
 

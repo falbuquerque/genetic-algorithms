@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Map;
 
 import br.com.falbuquerque.ai.optimization.genetic.Individuo;
-import br.com.falbuquerque.ai.optimization.genetic.populacao.EstruturaPopulacao;
+import br.com.falbuquerque.ai.optimization.genetic.population.EstruturaPopulacao;
 
 public class VerificadorConvergenciaNumerosDiscretos<N extends Number> extends VerificadorConvergencia<N> {
 

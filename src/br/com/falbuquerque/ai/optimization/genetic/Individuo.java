@@ -2,7 +2,7 @@ package br.com.falbuquerque.ai.optimization.genetic;
 
 import java.util.List;
 
-import br.com.falbuquerque.ai.optimization.genetic.reproducao.ComportamentoReproducao;
+import br.com.falbuquerque.ai.optimization.genetic.reproduction.ComportamentoReproducao;
 
 public class Individuo<N extends Number, S extends Number & Comparable<S>> implements Comparable<Individuo<N, S>> {
 
